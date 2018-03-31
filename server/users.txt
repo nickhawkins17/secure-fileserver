@@ -1,0 +1,3 @@
+nick=gradStudent47
+brett=csProf83
+guest=password
